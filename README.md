@@ -173,7 +173,7 @@
    }
 ```
 
-[render]
+[render方法实现]
 
 ```javascript
     /* 
